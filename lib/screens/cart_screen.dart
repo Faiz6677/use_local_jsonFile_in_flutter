@@ -12,6 +12,7 @@ class _CartScreenState extends State<CartScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        // this thing written through github changes features
         centerTitle: true,
         title: Text('Shopping'),
       ),
